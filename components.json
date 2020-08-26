@@ -1,0 +1,4 @@
+{
+  "button": "packages/button/index.tsx",
+  "main": "packages/index.tsx"
+}

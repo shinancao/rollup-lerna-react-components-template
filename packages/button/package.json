@@ -1,0 +1,25 @@
+{
+  "name": "button",
+  "version": "1.0.0",
+  "description": "a button component for mobile",
+  "keywords": [],
+  "author": "shinancao",
+  "license": "MIT",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.esm.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "http://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shinancao/rollup-lerna-react-components-template/tree/master/packages/button"
+  }
+}
